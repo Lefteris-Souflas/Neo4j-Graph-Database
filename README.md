@@ -1,6 +1,6 @@
 # Neo4j Graph Database Assignment
 
-Assignment 2 for the Mining Big Datasets Course of AUEB's MSc in Business Analytics
+Assignment 2 for the Mining Big Datasets Course of AUEB's MSc in Business Analytics.
 
 ### Dataset
 You are provided with a subset of the high energy physics theory citation network, comprising authors, articles, journals, and citations between articles. The dataset contains:
